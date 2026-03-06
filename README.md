@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-Computer Science Engineering Student | Java Developer | Full Stack Enthusiast
+Computer Science Engineering Student | Java Developer | Full Stack Developer
 </p>
 
 ---
@@ -17,23 +17,27 @@ Computer Science Engineering Student | Java Developer | Full Stack Enthusiast
 🎓 **B.Tech in Computer Science & Engineering**
 University of Engineering and Management, Kolkata (2022 – 2026)
 
-💡 Passionate about building **scalable backend systems and full stack applications**
+💡 Passionate about building **backend systems, scalable applications, and AI-powered solutions**
 
-💻 Interested in **Java Development, Backend Engineering, and AI-powered applications**
+🌱 Currently improving my skills in **Java, DSA, and Backend Development**
 
 📍 Kolkata, India
 
+⚡ Fun fact: *Turning coffee ☕ into code.*
+
 ---
 
-## 🧠 Technical Skills
+## 🧠 Tech Stack
 
-### Programming Languages
+### 👨‍💻 Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 
-### Web Development
+---
+
+### 🌐 Web Development
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
@@ -42,13 +46,17 @@ University of Engineering and Management, Kolkata (2022 – 2026)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-### Databases
+---
+
+### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-### Tools
+---
+
+### 🔧 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
@@ -56,53 +64,49 @@ University of Engineering and Management, Kolkata (2022 – 2026)
 
 ---
 
-## 💼 Experience
-
-### Intern – IT & Database Systems
-
-**South Eastern Railway, Garden Reach, Kolkata** | July 2025
-
-* Worked with **Oracle 11g** for relational database design and SQL queries
-* Learned enterprise **networking operations and data backup procedures**
-* Collaborated using **Google Sheets for reporting and documentation**
-
----
-
 ## 🚀 Projects
 
-### Campus Connect – Student Networking Platform
+### 🎓 Campus Connect
 
-Tech Stack: React • Tailwind CSS • Node.js • Express • MongoDB • Socket.io • JWT
+Real-time **student–alumni networking platform**
 
-* Built a platform enabling **student-alumni networking and event discovery**
-* Implemented **real-time chat system (CampusTalk)**
-* Added **JWT authentication and role-based access control**
-* Managed global state using **Zustand**
+**Tech Stack:**
+React • Tailwind CSS • Node.js • Express • MongoDB • Socket.io • JWT
+
+**Features**
+
+* Real-time messaging system (CampusTalk)
+* JWT authentication and role-based access
+* Event discovery and student networking
 
 ---
 
-### FitFusion – AI Powered Fitness Platform
+### 🏋️ FitFusion
 
-Tech Stack: Python • Flask • Node.js • MongoDB • Tailwind • Stripe • scikit-learn • NLTK
+AI-powered **fitness platform with chatbot**
 
-* Built **FitBot**, an ML-powered chatbot for fitness guidance
-* Implemented **workout tracking and meal planning dashboards**
-* Integrated **Stripe subscription payments**
-* Developed REST APIs connecting ML model with the web application
+**Tech Stack:**
+Python • Flask • Node.js • MongoDB • Tailwind • Stripe • scikit-learn • NLTK
+
+**Features**
+
+* ML chatbot **FitBot** for fitness guidance
+* Workout tracking and meal planning dashboards
+* Stripe-based subscription system
 
 ---
 
 ## 🏆 Achievements
 
-🥇 Finalist – **IEMHacks 3.0 Hackathon**
+🥇 Finalist — **IEMHacks 3.0 Hackathon**
 
-🥇 Finalist – **Roboweek 3.0 Hackathon (NIT Hamirpur)**
+🥇 Finalist — **Roboweek 3.0 Hackathon (NIT Hamirpur)**
 
-🧠 Participated – **Eco Hackathon by IIT (BHU)**
+🧠 Participated — **Eco Hackathon by IIT (BHU)**
 
 📜 IBM **Machine Learning Professional Certificate**
 
-📜 NPTEL Certification – **Programming in C & Soft Skills**
+📜 NPTEL Certification — Programming in C & Soft Skills
 
 ---
 
@@ -110,9 +114,9 @@ Tech Stack: Python • Flask • Node.js • MongoDB • Tailwind • Stripe •
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arju-Mukho&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Arju-Mukhopadhyay&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arju-Mukho&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arju-Mukhopadhyay&theme=tokyonight"/>
 
 </p>
 
@@ -122,15 +126,9 @@ Tech Stack: Python • Flask • Node.js • MongoDB • Tailwind • Stripe •
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arju-Mukho&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arju-Mukhopadhyay&layout=compact&theme=tokyonight"/>
 
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Arju-Mukho/Arju-Mukho/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -140,7 +138,7 @@ Tech Stack: Python • Flask • Node.js • MongoDB • Tailwind • Stripe •
 https://www.linkedin.com/in/arju-mukhopadhyay-480291243/
 
 💻 GitHub
-https://github.com/Arju-Mukho
+https://github.com/Arju-Mukhopadhyay
 
 ---
 
