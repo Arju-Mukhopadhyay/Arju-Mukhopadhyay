@@ -12,32 +12,28 @@ Computer Science Engineering Student | Java Developer | Full Stack Developer
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 🎓 **B.Tech in Computer Science & Engineering**
 University of Engineering and Management, Kolkata (2022 – 2026)
 
-💡 Passionate about building **backend systems, scalable applications, and AI-powered solutions**
+💡 Passionate about building **scalable backend systems, full-stack applications, and AI-powered solutions**
 
-🌱 Currently improving my skills in **Java, DSA, and Backend Development**
+🌱 Currently focused on improving my skills in **Java, Data Structures & Algorithms, and Backend Development**
 
 📍 Kolkata, India
 
-⚡ Fun fact: *Turning coffee ☕ into code.*
-
 ---
 
-## 🧠 Tech Stack
+# 🧠 Technical Skills
 
-### 👨‍💻 Programming Languages
+### Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 
----
-
-### 🌐 Web Development
+### Web Development
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
@@ -46,17 +42,13 @@ University of Engineering and Management, Kolkata (2022 – 2026)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
----
-
-### 🗄️ Databases
+### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
----
-
-### 🔧 Tools
+### Tools & Technologies
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
@@ -64,39 +56,55 @@ University of Engineering and Management, Kolkata (2022 – 2026)
 
 ---
 
-## 🚀 Projects
+# 💼 Experience
 
-### 🎓 Campus Connect
+### Intern – IT & Database Systems
 
-Real-time **student–alumni networking platform**
+**South Eastern Railway, Garden Reach, Kolkata | July 2025**
 
-Tech Stack
-React • Tailwind CSS • Node.js • Express • MongoDB • Socket.io • JWT
+• Gained hands-on experience with **Oracle 11g for relational database design, schema creation, and SQL query development**
 
-Features
+• Worked on **networking fundamentals, including console-based operations and data backup procedures**
 
-• Real-time messaging system (CampusTalk)
-• JWT authentication and role-based access
-• Event discovery and student networking
+• Utilized **Google Sheets for collaborative reporting, task tracking, and documentation**
 
----
-
-### 🏋️ FitFusion
-
-AI-powered **fitness platform with chatbot**
-
-Tech Stack
-Python • Flask • Node.js • MongoDB • Tailwind • Stripe • scikit-learn • NLTK
-
-Features
-
-• ML chatbot **FitBot**
-• Workout tracking and meal planning dashboards
-• Subscription payment system
+• Strengthened technical proficiency and team collaboration in a **live enterprise IT environment**
 
 ---
 
-## 🏆 Achievements
+# 🚀 Projects
+
+### 🎓 Campus Connect – Real-Time Networking for the Next Generation
+
+🔗 Live Project
+https://campus-connect-07.vercel.app/
+
+• **Tech Stack:** React, Tailwind CSS, Node.js, Express.js, MongoDB Atlas, Socket.io, Zustand, JWT
+
+• Developed a responsive platform enabling **student-alumni networking, event discovery, and real-time chat (CampusTalk)**
+
+• Integrated **JWT-based authentication, role-based access, and live messaging using Socket.io**
+
+• Managed global state efficiently with **Zustand** and integrated **dark/light theme toggle**
+
+---
+
+### 🏋️ FitFusion – Train Smart, Eat Right, Stay Connected
+
+🔗 Live Project
+https://fitfusion-07.vercel.app/
+
+• **Tech Stack:** Flask, Python, scikit-learn, NLTK, Node.js, Express.js, MongoDB Atlas, Tailwind CSS, Stripe
+
+• Designed a **ML-powered chatbot (FitBot)** and full-stack web app for **workout tracking, meal planning, and membership management**
+
+• Built **secure authentication system, Stripe-based subscriptions, and interactive dashboards**
+
+• Implemented **NLP-based fitness guidance using Flask, NLTK, and scikit-learn with RESTful API integration**
+
+---
+
+# 🏆 Achievements
 
 🥇 Finalist — **IEMHacks 3.0 Hackathon**
 
@@ -104,23 +112,13 @@ Features
 
 🧠 Participated — **Eco Hackathon by IIT (BHU)**
 
-📜 IBM Machine Learning Professional Certificate
+📜 **IBM Machine Learning Professional Certificate**
 
-📜 NPTEL Certification — Programming in C & Soft Skills
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arju-Mukhopadhyay&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=Arju-Mukhopadhyay&cache_seconds=86400"/>
-
-</p>
+📜 **NPTEL Certification — Programming in C & Soft Skills**
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 🔗 LinkedIn
 https://www.linkedin.com/in/arju-mukhopadhyay-480291243/
