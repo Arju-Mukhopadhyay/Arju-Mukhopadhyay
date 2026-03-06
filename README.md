@@ -44,7 +44,7 @@ University of Engineering and Management, Kolkata (2022 – 2026)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 ---
 
@@ -70,14 +70,14 @@ University of Engineering and Management, Kolkata (2022 – 2026)
 
 Real-time **student–alumni networking platform**
 
-**Tech Stack:**
+Tech Stack
 React • Tailwind CSS • Node.js • Express • MongoDB • Socket.io • JWT
 
-**Features**
+Features
 
-* Real-time messaging system (CampusTalk)
-* JWT authentication and role-based access
-* Event discovery and student networking
+• Real-time messaging system (CampusTalk)
+• JWT authentication and role-based access
+• Event discovery and student networking
 
 ---
 
@@ -85,14 +85,14 @@ React • Tailwind CSS • Node.js • Express • MongoDB • Socket.io • JWT
 
 AI-powered **fitness platform with chatbot**
 
-**Tech Stack:**
+Tech Stack
 Python • Flask • Node.js • MongoDB • Tailwind • Stripe • scikit-learn • NLTK
 
-**Features**
+Features
 
-* ML chatbot **FitBot** for fitness guidance
-* Workout tracking and meal planning dashboards
-* Stripe-based subscription system
+• ML chatbot **FitBot**
+• Workout tracking and meal planning dashboards
+• Subscription payment system
 
 ---
 
@@ -104,21 +104,9 @@ Python • Flask • Node.js • MongoDB • Tailwind • Stripe • scikit-lear
 
 🧠 Participated — **Eco Hackathon by IIT (BHU)**
 
-📜 IBM **Machine Learning Professional Certificate**
+📜 IBM Machine Learning Professional Certificate
 
 📜 NPTEL Certification — Programming in C & Soft Skills
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Arju-Mukhopadhyay&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arju-Mukhopadhyay&theme=tokyonight"/>
-
-</p>
 
 ---
 
@@ -126,7 +114,7 @@ Python • Flask • Node.js • MongoDB • Tailwind • Stripe • scikit-lear
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arju-Mukhopadhyay&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arju-Mukhopadhyay&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=Arju-Mukhopadhyay&cache_seconds=86400"/>
 
 </p>
 
