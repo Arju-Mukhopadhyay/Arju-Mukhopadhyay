@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Arju Mukhopadhyay</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Java+Developer;Backend+Developer;Full+Stack+Developer;DSA+Enthusiast;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Java+Developer;Backend+Development+Enthusiast;Full+Stack+Developer;Machine+Learning+Explorer"/>
 </p>
 
 <p align="center">
@@ -14,17 +14,12 @@ Computer Science Engineering Student | Java Developer | Full Stack Developer
 
 # 🚀 About Me
 
-🎓 **B.Tech in Computer Science & Engineering**  
+🎓 **B.Tech in Computer Science & Engineering**
 University of Engineering and Management, Kolkata (2022 – 2026)
 
 💡 Passionate about building **scalable backend systems, full-stack applications, and AI-powered solutions**
 
-🌱 Currently improving my skills in:
-
-- Java Development
-- Data Structures & Algorithms
-- Backend Development
-- System Design
+🌱 Currently focused on improving my skills in **Java, Data Structures & Algorithms, and Backend Development**
 
 📍 Kolkata, India
 
@@ -32,39 +27,32 @@ University of Engineering and Management, Kolkata (2022 – 2026)
 
 # 🧠 Technical Skills
 
-## 💻 Programming Languages
+### Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 
----
+### Web Development
 
-## 🌐 Web Development
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
----
+### Databases
 
-## 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### Tools & Technologies
 
----
-
-## ⚙ Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ---
 
@@ -74,54 +62,63 @@ University of Engineering and Management, Kolkata (2022 – 2026)
 
 **South Eastern Railway, Garden Reach, Kolkata | July 2025**
 
-• Worked with **Oracle 11g for database schema design and SQL queries**
+• Gained hands-on experience with **Oracle 11g for relational database design, schema creation, and SQL query development**
 
-• Learned **networking fundamentals and enterprise IT infrastructure**
+• Worked on **networking fundamentals, including console-based operations and data backup procedures**
 
-• Performed **data backup and console operations**
+• Utilized **Google Sheets for collaborative reporting, task tracking, and documentation**
 
-• Used **Google Sheets for documentation and reporting**
+• Strengthened technical proficiency and team collaboration in a **live enterprise IT environment**
 
 ---
 
 # 🚀 Projects
 
-## 🎓 Campus Connect
+## 🎓 Campus Connect – Real-Time Networking for the Next Generation
 
-🔗 https://campus-connect-07.vercel.app/
-
-A real-time platform enabling **student-alumni networking, event discovery, and live chat.**
+🔗 **Live Project**
+https://campus-connect-07.vercel.app/
 
 ### Tech Stack
 
-React | Node.js | Express | MongoDB | Socket.io | JWT | Zustand | TailwindCSS
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge\&logo=socket.io)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
+![Zustand](https://img.shields.io/badge/Zustand-state%20management-blue?style=for-the-badge)
 
-Features:
+• Developed a responsive platform enabling **student-alumni networking, event discovery, and real-time chat (CampusTalk)**
 
-• Real-time messaging system  
-• Role-based authentication  
-• Student & alumni networking  
-• Event discovery platform  
-• Dark/light theme support
+• Integrated **JWT-based authentication, role-based access, and live messaging using Socket.io**
+
+• Managed global state efficiently with **Zustand** and integrated **dark/light theme toggle**
 
 ---
 
-## 🏋️ FitFusion
+## 🏋️ FitFusion – Train Smart, Eat Right, Stay Connected
 
-🔗 https://fitfusion-07.vercel.app/
-
-A **full-stack AI-powered fitness platform** with workout tracking and ML chatbot.
+🔗 **Live Project**
+https://fitfusion-07.vercel.app/
 
 ### Tech Stack
 
-Python | Flask | MongoDB | Node.js | TailwindCSS | Stripe | NLTK | Scikit-learn
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge\&logo=flask)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge\&logo=stripe\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-NLP-green?style=for-the-badge)
 
-Features:
+• Designed a **ML-powered chatbot (FitBot)** and full-stack web app for **workout tracking, meal planning, and membership management**
 
-• AI fitness chatbot (FitBot)  
-• Workout & meal tracking  
-• Subscription system with Stripe  
-• NLP-based fitness guidance
+• Built **secure authentication system, Stripe-based subscriptions, and interactive dashboards**
+
+• Implemented **NLP-based fitness guidance using Flask, NLTK, and scikit-learn with RESTful API integration**
 
 ---
 
@@ -133,44 +130,19 @@ Features:
 
 🧠 Participated — **Eco Hackathon by IIT (BHU)**
 
-📜 IBM Machine Learning Professional Certificate
+📜 **IBM Machine Learning Professional Certificate**
 
-📜 NPTEL Certification — Programming in C & Soft Skills
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arju-Mukhopadhyay&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arju-Mukhopadhyay&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Arju-Mukhopadhyay&theme=tokyonight" />
-
-</p>
+📜 **NPTEL Certification — Programming in C & Soft Skills**
 
 ---
 
 # 🌐 Connect With Me
 
-🔗 LinkedIn  
+🔗 LinkedIn
 https://www.linkedin.com/in/arju-mukhopadhyay-480291243/
 
-💻 GitHub  
+💻 GitHub
 https://github.com/Arju-Mukhopadhyay
-
-📧 Email  
-arju.mukhopadhyay@gmail.com
 
 ---
 
