@@ -2,13 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Arju Mukhopadhyay</h1>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Java+Developer;Backend+Development+Enthusiast;Full+Stack+Developer;Machine+Learning+Explorer"/>
+<p align="center"> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Java+Developer;Backend+Development+Enthusiast;Full+Stack+Developer;Machine+Learning+Explorer"/> 
 </p>
 
-<p align="center">
-Computer Science Engineering Student | Java Developer | Full Stack Developer
-</p>
+<p align="center"> Computer Science Engineering Student | Java Developer | Full Stack Developer </p>
 
 ---
 
@@ -19,7 +17,7 @@ University of Engineering and Management, Kolkata (2022 – 2026)
 
 💡 Passionate about building **scalable backend systems, full-stack applications, and AI-powered solutions**
 
-🌱 Currently focused on improving my skills in **Java, Data Structures & Algorithms, and Backend Development**
+🌱 Currently focused on improving my skills in **Java, Data Structures & Algorithms, Spring Boot, and Backend Development**
 
 📍 Kolkata, India
 
@@ -32,6 +30,14 @@ University of Engineering and Management, Kolkata (2022 – 2026)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+
+### Backend Development
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-orange?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+![JSP](https://img.shields.io/badge/JSP-Servlets-blue?style=for-the-badge)
 
 ### Web Development
 
@@ -73,6 +79,26 @@ University of Engineering and Management, Kolkata (2022 – 2026)
 ---
 
 # 🚀 Projects
+
+## 💼 JobSphere Portal – Full Stack Job Management System
+
+🔗 https://github.com/Arju-Mukhopadhyay/JobSphere-Portal
+
+### Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-Hibernate-orange?style=for-the-badge)
+![JSP](https://img.shields.io/badge/JSP-Servlets-blue?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+• Built a **full-stack job portal** with **role-based access (Employer & Job Seeker)**  
+• Implemented **job posting, application tracking, and applicant management system**  
+• Designed **layered architecture (Controller → Service → Repository → Entity)**  
+• Developed **duplicate application prevention and job expiry tracking**  
+• Used **Spring Boot, JPA, Hibernate, and MySQL for scalable backend development**
+
+---
 
 ## 🎓 Campus Connect – Real-Time Networking for the Next Generation
 
@@ -146,4 +172,4 @@ https://github.com/Arju-Mukhopadhyay
 
 ---
 
-⭐ *Always learning, building, and exploring new technologies.*
+⭐ *Focused on backend development, scalable systems, and real-world problem solving.*
